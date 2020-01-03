@@ -1,0 +1,5 @@
+Source: xframe
+Version: 0.20.8
+Description: C++ multi-dimensional labeled arrays and dataframe based on xtensor
+Homepage: https://github.com/xtensor-stack/xframe
+Build-Depends: xtensor, xtl
